@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Best-Farmer-Admin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="base_url">http://10.0.2.2:8080/best-farmer/</string>
+
+    <string name="score_2_5">Score : </string>
+
+    <string name="security_admin_api_store">SECURITY_ADMIN_API</string>
+    <string name="loading_description">Loading Description</string>
+    <string name="food_title_name">Banana</string>
+    <string name="food_price">LKR 2500.00</string>
+    <string name="seller_review">Seller Review</string>
+    <string name="product_description">Product Description</string>
+    <string name="farmer_s_image">Farmer\'s Image</string>
+    <string name="farmer_s_name">Farmer\'s Name</string>
+    <string name="rating_and_review">Rating and Review</string>
+    <string name="rating_count">Rating Count</string>
+    <string name="review_count">Review Count</string>
+    <string name="buyer_name">Buyer Name</string>
+    <string name="buyer_comment">Buyer Comment</string>
+    <string name="review_date">Review Date</string>
+    <string name="product_images">Product Images</string>
+
+</resources>

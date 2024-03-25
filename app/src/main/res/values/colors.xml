@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#00c853</color>
+    <color name="primary_light">#00e676</color>
+    <color name="primary_light1">#69f0ae</color>
+    <color name="primary_light2">#b9f6ca</color>
+    <color name="primary_light3">#6FB9F6CA</color>
+    <color name="danger">#ff1744</color>
+    <color name="info">#00b0ff</color>
+    <color name="success">#64dd17</color>
+    <color name="warning">#fbc02d</color>
+    <color name="gray">#8F8C8C</color>
+    <color name="light_gray">#E8E3E3</color>
+    <color name="gold">#FFD700</color>
+</resources>

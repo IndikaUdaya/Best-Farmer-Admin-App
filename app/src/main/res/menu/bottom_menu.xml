@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home1"
+        android:icon="@drawable/home_icon"
+        android:title="Home" />
+
+    <item
+        android:id="@+id/product"
+        android:icon="@drawable/product_icon"
+        android:title="Product" />
+
+    <item
+        android:id="@+id/seller"
+        android:icon="@drawable/seller_icon"
+        android:title="Seller" />
+
+    <item
+        android:id="@+id/buyer"
+        android:icon="@drawable/buyer_icon"
+        android:title="Buyer" />
+
+    <item
+        android:id="@+id/signout"
+        android:icon="@drawable/shutdown_icon"
+        android:title="Sign out" />
+
+</menu>

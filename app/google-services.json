@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "357940591217",
+    "project_id": "bestfarmerv1",
+    "storage_bucket": "bestfarmerv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357940591217:android:9c9febad006b0bc20279d0",
+        "android_client_info": {
+          "package_name": "com.indikaudaya.best_farmer_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhA-rt-KENIVPdpdRz-rmwQYBa1yj3BhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357940591217:android:04afbac0bcabae1b0279d0",
+        "android_client_info": {
+          "package_name": "com.indikaudaya.bestfarmer_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhA-rt-KENIVPdpdRz-rmwQYBa1yj3BhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
